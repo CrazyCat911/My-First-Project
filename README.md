@@ -1,5 +1,5 @@
 # YouTube Creator AI
-## Overview[README.md](https://github.com/CrazyCat911/My-First-Project/files/10895085/README.md)
+## Overview
 
  This is an AI that helps you edit YouTube videos 
 
